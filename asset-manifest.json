@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/warrning-touch-face/static/css/main.1ec1a091.chunk.css",
+    "main.js": "/warrning-touch-face/static/js/main.c71adb1b.chunk.js",
+    "main.js.map": "/warrning-touch-face/static/js/main.c71adb1b.chunk.js.map",
+    "runtime-main.js": "/warrning-touch-face/static/js/runtime-main.4899fb51.js",
+    "runtime-main.js.map": "/warrning-touch-face/static/js/runtime-main.4899fb51.js.map",
+    "static/js/2.d96dae26.chunk.js": "/warrning-touch-face/static/js/2.d96dae26.chunk.js",
+    "static/js/2.d96dae26.chunk.js.map": "/warrning-touch-face/static/js/2.d96dae26.chunk.js.map",
+    "static/js/3.14237832.chunk.js": "/warrning-touch-face/static/js/3.14237832.chunk.js",
+    "static/js/3.14237832.chunk.js.map": "/warrning-touch-face/static/js/3.14237832.chunk.js.map",
+    "index.html": "/warrning-touch-face/index.html",
+    "static/css/main.1ec1a091.chunk.css.map": "/warrning-touch-face/static/css/main.1ec1a091.chunk.css.map",
+    "static/js/2.d96dae26.chunk.js.LICENSE.txt": "/warrning-touch-face/static/js/2.d96dae26.chunk.js.LICENSE.txt",
+    "static/media/hey_sondn.8c2f8e9b.mp3": "/warrning-touch-face/static/media/hey_sondn.8c2f8e9b.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4899fb51.js",
+    "static/js/2.d96dae26.chunk.js",
+    "static/css/main.1ec1a091.chunk.css",
+    "static/js/main.c71adb1b.chunk.js"
+  ]
+}
